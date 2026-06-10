@@ -54,7 +54,10 @@ The goal of this project was to design a clean, minimal, and visually appealing 
 ![Home](./home.png)
 
 ---
+### Detail Screen
+![Home](./detail.png)
 
+---
 ### Signup Screen
 ![Signup](./signup.png)
 
