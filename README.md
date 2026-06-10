@@ -23,7 +23,8 @@ The goal of this project was to design a clean, minimal, and visually appealing 
 - Splash Screen  
 - Home Screen with categorized fashion content 
 - Outfit Inspiration Section  
-- Login & Signup Screens  
+- Login & Signup Screens
+- Detail Screen 
 
 ---
 
